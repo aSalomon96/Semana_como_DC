@@ -1,4 +1,4 @@
-##Proyecto de la escuela Data Science For Business de Isaac González.
+#Proyecto de la escuela Data Science For Business de Isaac González.
 
 El objetivo del mismo consistia en hacer una simulacion de la semana de trabajo de un DataScience donde los directivos querian reducir la tasa de abandono en la empresa. 
 Se contaba con una BBDD donde se encontraba el historico de empleados que estan y estuvieron en la empresa. 
